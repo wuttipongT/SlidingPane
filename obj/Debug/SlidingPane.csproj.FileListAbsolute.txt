@@ -1,0 +1,10 @@
+C:\Users\bedwu\source\repos\SlidingPane\bin\Debug\SlidingPane.exe.config
+C:\Users\bedwu\source\repos\SlidingPane\bin\Debug\SlidingPane.exe
+C:\Users\bedwu\source\repos\SlidingPane\bin\Debug\SlidingPane.pdb
+C:\Users\bedwu\source\repos\SlidingPane\obj\Debug\SlidingPane.csprojAssemblyReference.cache
+C:\Users\bedwu\source\repos\SlidingPane\obj\Debug\SlidingPane.Form1.resources
+C:\Users\bedwu\source\repos\SlidingPane\obj\Debug\SlidingPane.Properties.Resources.resources
+C:\Users\bedwu\source\repos\SlidingPane\obj\Debug\SlidingPane.csproj.GenerateResource.cache
+C:\Users\bedwu\source\repos\SlidingPane\obj\Debug\SlidingPane.csproj.CoreCompileInputs.cache
+C:\Users\bedwu\source\repos\SlidingPane\obj\Debug\SlidingPane.exe
+C:\Users\bedwu\source\repos\SlidingPane\obj\Debug\SlidingPane.pdb
